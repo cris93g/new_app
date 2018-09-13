@@ -1,0 +1,29 @@
+#Home{
+    background-color:white;
+}
+
+#frontBanner{
+    height:70vh;
+    width:100vw;
+    object-fit: cover;
+}
+/* .Home{
+    display:flex;
+} */
+
+.bannerHeader{
+
+
+display: flex;
+position:Absolute;
+margin-left: 44%;
+color:white;
+margin-top:200px;
+}
+.topHeader{
+    display: flex;
+position:Absolute;
+margin-left: 35%;
+margin-top:160px;
+color:white;
+}
